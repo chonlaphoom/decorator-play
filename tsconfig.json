@@ -4,7 +4,7 @@
     "esModuleInterop": true,
     "target": "ES5",
     "moduleResolution": "node",
-    "sourceMap": true,
+    "sourceMap": false,
     "outDir": "dist",
 		"experimentalDecorators": true,
 		"lib": [
